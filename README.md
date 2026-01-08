@@ -51,8 +51,8 @@ I am a passionate and curious **software enthusiast** currently exploring fullâ€
 
 ## ðŸ“« Connect With Me
 
-* LinkedIn: *Add your link here*
-* Portfolio Website: *Add when ready*
+* LinkedIn: www.linkedin.com/in/mahesh-bollineni-397a82299
+* Portfolio Website: 'under maintanance'
 * Email: bollineni.mahesh2006@gmail.com
 
 ---

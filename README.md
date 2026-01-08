@@ -53,7 +53,7 @@ I am a passionate and curious **software enthusiast** currently exploring fullâ€
 
 * LinkedIn: *Add your link here*
 * Portfolio Website: *Add when ready*
-* Email: *Add your email*
+* Email: bollineni.mahesh2006@gmail.com
 
 ---
 

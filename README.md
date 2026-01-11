@@ -1,6 +1,6 @@
 <!-- ======================= PROFILE BANNER ======================= -->
 <p align="center">
-  <img src="https://i.imgur.com/hczKIze.gif" width="900px">
+  <img src="[https://i.imgur.com/hczKIze.gif](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3amdhdGdtdXdjNDhsYmN1bTh0NGI2d2ZhYWhlMDg1dnk2ZGI3YWJhdCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/eMu0803X2zkWY/giphy.gif)" width="900px">
 </p>
 
 <h1 align="center">👋 Hey, I'm <span style="color:#00FFFF">Mahesh Bollineni</span></h1>
@@ -41,18 +41,6 @@ I love building real-world projects, solving challenging problems and constantly
 ![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge)
 ![Postman](https://img.shields.io/badge/Postman-orange?style=for-the-badge)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge)
-
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mahesh-bollineni&show_icons=true&theme=midnight-purple" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahesh-bollineni&layout=compact&theme=midnight-purple" height="165">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahesh-bollineni&theme=midnight-purple" />
-</p>
 
 ---
 

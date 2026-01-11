@@ -63,13 +63,6 @@ I love building real-world projects, solving challenging problems and constantly
 
 ---
 
-## 🐍 Contribution Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mahesh-bollineni/mahesh-bollineni/output/github-contribution-grid-snake.svg">
-</p>
-
----
-
 ## 📫 Connect With Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge)](https://www.linkedin.com/in/mahesh-bollineni-397a82299)
 ![Email](https://img.shields.io/badge/Gmail-bollineni.mahesh2006@gmail.com-red?style=for-the-badge)

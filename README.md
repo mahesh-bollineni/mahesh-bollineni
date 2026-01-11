@@ -3,7 +3,7 @@
 
 <h1 align="center">👋 Hey, I'm <span style="color:#00FFFF">Mahesh Bollineni</span></h1>
 <p align="center">
-  <img src="[[https://i.imgur.com/hczKIze.gif](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3amdhdGdtdXdjNDhsYmN1bTh0NGI2d2ZhYWhlMDg1dnk2ZGI3YWJhdCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/eMu0803X2zkWY/giphy.gif)](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHNhYTV2MWd3cmx4YXdkejhmdXY4aWFqa25maHA1dWNncXp3cDB2cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eMu0803X2zkWY/giphy.gif)" width="900px">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2w2bWt4cm0wcHlwYzM4am9wZHhoYjcwOHEzcmR6eDEwd3V2YXo0MSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/jUwpNzg9IcyrK/giphy.gif" width="200px">
 </p>
 
 <p align="center">

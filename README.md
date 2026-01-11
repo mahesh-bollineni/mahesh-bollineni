@@ -46,33 +46,33 @@ I love building real-world projects, solving challenging problems and constantly
 
 ## 🏆 GitHub Trophy Wall
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=radical&no-frame=true&no-bg=true&margin-w=5">
+  <img src="https://github-profile-trophy.vercel.app/?username=mahesh-bollineni&theme=radical&no-frame=true&no-bg=true&margin-w=5">
 </p>
 
 ---
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=midnight-purple" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=mahesh-bollineni&show_icons=true&theme=midnight-purple" height="165">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=midnight-purple" height="165">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=midnight-purple" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahesh-bollineni&theme=midnight-purple" />
 </p>
 
 ---
 
 ## ⚡ Activity Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark&hide_border=true">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahesh-bollineni&theme=react-dark&hide_border=true">
 </p>
 
 ---
 
 ## 🐍 Contribution Snake
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg">
+  <img src="https://raw.githubusercontent.com/mahesh-bollineni/mahesh-bollineni/output/github-contribution-grid-snake.svg">
 </p>
 
 ---

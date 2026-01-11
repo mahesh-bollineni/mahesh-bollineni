@@ -44,17 +44,10 @@ I love building real-world projects, solving challenging problems and constantly
 
 ---
 
-## 🏆 GitHub Trophy Wall
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mahesh-bollineni&theme=radical&no-frame=true&no-bg=true&margin-w=5">
-</p>
-
----
-
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mahesh-bollineni&show_icons=true&theme=midnight-purple" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=midnight-purple" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahesh-bollineni&layout=compact&theme=midnight-purple" height="165">
 </p>
 
 <p align="center">

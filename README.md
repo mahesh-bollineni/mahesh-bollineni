@@ -1,9 +1,10 @@
 <!-- ======================= PROFILE BANNER ======================= -->
-<p align="center">
-  <img src="[https://i.imgur.com/hczKIze.gif](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3amdhdGdtdXdjNDhsYmN1bTh0NGI2d2ZhYWhlMDg1dnk2ZGI3YWJhdCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/eMu0803X2zkWY/giphy.gif)" width="900px">
-</p>
+
 
 <h1 align="center">👋 Hey, I'm <span style="color:#00FFFF">Mahesh Bollineni</span></h1>
+<p align="center">
+  <img src="[[https://i.imgur.com/hczKIze.gif](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3amdhdGdtdXdjNDhsYmN1bTh0NGI2d2ZhYWhlMDg1dnk2ZGI3YWJhdCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/eMu0803X2zkWY/giphy.gif)](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHNhYTV2MWd3cmx4YXdkejhmdXY4aWFqa25maHA1dWNncXp3cDB2cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eMu0803X2zkWY/giphy.gif)" width="900px">
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=25&color=00FFFF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Cyber+Security+Enthusiast;Java+%7C+Spring+Boot+%7C+React;Always+Learning+New+Things">

@@ -1,64 +1,29 @@
-<!-- ======================= PROFILE BANNER ======================= -->
+<div align="center">
+  <!-- Profile Banner -->
+  <img src="https://raw.githubusercontent.com/mahesh-bollineni/mahesh-bollineni/main/banner.png" alt="Banner" width="100%" />
+  
+  <!-- Avatar -->
+  <img src="https://avatars.githubusercontent.com/mahesh-bollineni" alt="Mahesh Bollineni" width="120" style="border-radius:50%;margin-top:-60px; border:4px solid #00FF00;"/>
 
-
-<h1 align="center">👋 Hey, I'm <span style="color:#00FFFF">Mahesh Bollineni</span></h1>
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2w2bWt4cm0wcHlwYzM4am9wZHhoYjcwOHEzcmR6eDEwd3V2YXo0MSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/jUwpNzg9IcyrK/giphy.gif" width="200px">
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&color=00FFFF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Cyber+Security+Enthusiast;Java+%7C+Spring+Boot+%7C+React;Always+Learning+New+Things">
-</p>
-
----
-
-## 🧑‍💻 About Me  
-I am a passionate and curious developer exploring **Full-Stack Development, Secure Applications & System Design**.  
-I love building real-world projects, solving challenging problems and constantly improving myself.
+  <h1>👋 Hi, I'm Mahesh Bollineni</h1>
+  <h3>🎓 3rd Year B.Tech – Computer Science Engineering (Cyber Security) @ KL University, Vijayawada</h3>
+  <p>📊 CGPA: 8.72 | 🚀 Passionate about Full-Stack Development, System Design & Secure Application Development</p>
+</div>
 
 ---
 
-## 🧠 Tech Stack
-
-#### Languages  
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge)
-![C](https://img.shields.io/badge/C-Language-blue?style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/Javascript-000000?style=for-the-badge)
-![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge)
-![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge)
-
-#### Frontend  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge)
-
-#### Backend  
-![Spring](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge)
-
-#### Database  
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge)
-
-#### Tools  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge)
-![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge)
-![Postman](https://img.shields.io/badge/Postman-orange?style=for-the-badge)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge)
-
----
-
-## ⚡ Activity Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahesh-bollineni&theme=react-dark&hide_border=true">
-</p>
-
----
-
-## 📫 Connect With Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge)](https://www.linkedin.com/in/mahesh-bollineni-397a82299)
-![Email](https://img.shields.io/badge/Gmail-bollineni.mahesh2006@gmail.com-red?style=for-the-badge)
-![Portfolio](https://img.shields.io/badge/Portfolio-Coming%20Soon-yellow?style=for-the-badge)
-
----
-
-<p align="center">
-<b>"Striving to build secure, scalable, impactful software"</b>
-</p>
+## 🖤 About Me
+```diff
+- Cybersecurity enthusiast with a hacker mindset 🖤
+- Exploring full-stack development & secure systems
+- Problem solver, tech blogger, and project builder
+🛠 Skills
+<div align="center"> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" /> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" /> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" /> </div>
+>
+💻 Projects Showcase
+<div align="center"> <a href="https://github.com/mahesh-bollineni/car-rental-system"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=mahesh-bollineni&repo=car-rental-system&theme=dark" alt="Car Rental System"/> </a> <a href="https://github.com/mahesh-bollineni/portfolio-react"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=mahesh-bollineni&repo=portfolio-react&theme=dark" alt="React Portfolio"/> </a> </div>
+📊 GitHub Stats
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=mahesh-bollineni&show_icons=true&theme=dark&count_private=true" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahesh-bollineni&theme=dark" /> </div>
+🌐 Connect with Me
+<div align="center"> <a href="https://www.linkedin.com/in/mahesh-bollineni" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://twitter.com/mahesh_bollineni" target="_blank"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /> </a> <a href="mailto:mahesh@example.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </div>
+<p align="center"> <sub>💚 Dark Cyberpunk Theme Inspired by Hackers & Matrix Vibes</sub> </p>

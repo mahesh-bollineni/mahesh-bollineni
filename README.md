@@ -54,7 +54,7 @@ I love building real-world projects, solving challenging problems and constantly
 
 ## 📫 Connect With Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge)](https://www.linkedin.com/in/mahesh-bollineni-397a82299)
-![Email](https://img.shields.io/badge/Gmail-bollineni.mahesh2006@gmail.com-red?style=for-the-badge)
+[![Email](https://img.shields.io/badge/Gmail-red?style=for-the-badge)](mailto:bollineni.mahesh2006@gmail.com)
 ![Portfolio](https://img.shields.io/badge/Portfolio-Coming%20Soon-yellow?style=for-the-badge)
 
 ---

@@ -21,18 +21,20 @@ I love building real-world projects, solving challenging problems and constantly
 ## 🧠 Tech Stack
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge)
 ![C](https://img.shields.io/badge/C-Language-blue?style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/Javascript-000000?style=for-the-badge)
-![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge)
 
+![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge)
 ![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/Javascript-000000?style=for-the-badge)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge)
 ![Spring](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge) 
 
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge)
+![Postman](https://img.shields.io/badge/Postman-orange?style=for-the-badge)
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge)
 ![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge)
-![Postman](https://img.shields.io/badge/Postman-orange?style=for-the-badge)
+
 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge)
 

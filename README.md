@@ -1,24 +1,25 @@
 <!-- ======================= PROFILE BANNER ======================= -->
 
-
 <h1 align="center">👋 Hey, I'm <span style="color:#00FFFF">Mahesh Bollineni</span></h1>
+
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2w2bWt4cm0wcHlwYzM4am9wZHhoYjcwOHEzcmR6eDEwd3V2YXo0MSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/jUwpNzg9IcyrK/giphy.gif" width="200px">
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&color=00FFFF&center=true&vCenter=true&width=600&lines=securityBased+Full+Stack+Developer;Cyber+Security+Enthusiast;Java+%7C+Spring+Boot+%7C+React;Always+Learning+New+Things">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&color=00FFFF&center=true&vCenter=true&width=600&lines=Security+Focused+Full+Stack+Developer;Cyber+Security+Enthusiast;Java+%7C+Spring+Boot+%7C+React;Always+Learning+New+Things">
 </p>
 
 ---
 
-## 🧑‍💻 About Me  
-I am a passionate and curious developer exploring *Full-Stack Development, Secure Applications & System Design*.  
+## 🧑‍💻 About Me
+I am a passionate and curious developer exploring **Full-Stack Development, Secure Applications & System Design**.  
 I love building real-world projects, solving challenging problems and constantly improving myself.
 
 ---
 
 ## 🧠 Tech Stack
+
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge)
 ![C](https://img.shields.io/badge/C-Language-blue?style=for-the-badge)
 
@@ -27,7 +28,7 @@ I love building real-world projects, solving challenging problems and constantly
 ![JavaScript](https://img.shields.io/badge/Javascript-000000?style=for-the-badge)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge)
-![Spring](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge) 
+![Spring](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge)
 
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge)
 ![Postman](https://img.shields.io/badge/Postman-orange?style=for-the-badge)
@@ -35,21 +36,24 @@ I love building real-world projects, solving challenging problems and constantly
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge)
 ![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge)
 
-
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge)
 
 ---
 
-## ⚡ Activity Graph
+# 🔥 GitHub Streak
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahesh-bollineni&theme=react-dark&hide_border=true">
+  <img src="https://streak-stats.demolab.com?user=mahesh-bollineni&theme=react&hide_border=true"/>
 </p>
 
 ---
 
-## 📫 Connect With Me  
+## 📫 Connect With Me
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge)](https://www.linkedin.com/in/mahesh-bollineni-397a82299)
+
 [![Email](https://img.shields.io/badge/Gmail-red?style=for-the-badge)](mailto:bollineni.mahesh2006@gmail.com)
+
 ![Portfolio](https://img.shields.io/badge/Portfolio-Coming%20Soon-yellow?style=for-the-badge)
 
 ---

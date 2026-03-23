@@ -84,10 +84,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahesh-bollineni&layout=compact&theme=default&hide_border=false&title_color=e53935&icon_color=00599c&text_color=333333&bg_color=ffffff" height="170px" />
 </div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=mahesh-bollineni&theme=default&hide_border=false&background=ffffff&stroke=e53935&ring=00599c&fire=e53935&currStreakNum=333333&sideNums=333333&sideLabels=333333&dates=333333" />
-</div>
-
 ---
 
 ### 📞 TRANSMIT VIA DEN DEN MUSHI: CONNECT
